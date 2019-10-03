@@ -1,0 +1,21 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.7.0",
+    "mocha": "^6.2.0",
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.36"
+  }
+}
